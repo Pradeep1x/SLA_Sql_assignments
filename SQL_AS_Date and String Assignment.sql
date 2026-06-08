@@ -1,0 +1,1 @@
+SELECT CONCAT('%%', UPPER(SUBSTRING_INDEX('Sanjay Kumar', ' ', -1)), '%%') AS Output;
